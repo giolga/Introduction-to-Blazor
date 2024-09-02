@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\cye682rgo1.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FirstBlazor.styles.css",
+      "PackagePath": "staticwebassets\\FirstBlazor.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FirstBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FirstBlazor.props",
+      "PackagePath": "build\\FirstBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FirstBlazor.props",
+      "PackagePath": "buildMultiTargeting\\FirstBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FirstBlazor.props",
+      "PackagePath": "buildTransitive\\FirstBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
