@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|c:\\users\\giolga\\desktop\\firstblazor\\firstblazor\\layout\\shoppinglistlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|solutionrelative:firstblazor\\layout\\shoppinglistlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|c:\\users\\giolga\\desktop\\firstblazor\\firstblazor\\pages\\shoppinglist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|solutionrelative:firstblazor\\pages\\shoppinglist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 873,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ShoppingListLayout.razor",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Layout\\ShoppingListLayout.razor",
+              "RelativeDocumentMoniker": "FirstBlazor\\Layout\\ShoppingListLayout.razor",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Layout\\ShoppingListLayout.razor",
+              "RelativeToolTip": "FirstBlazor\\Layout\\ShoppingListLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T10:07:52.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Grocery.cs",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Data\\Grocery.cs",
               "RelativeDocumentMoniker": "FirstBlazor\\Data\\Grocery.cs",
@@ -46,12 +63,11 @@
               "RelativeToolTip": "FirstBlazor\\Data\\Grocery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T09:56:23.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T09:56:23.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Item.razor",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Pages\\Item.razor",
               "RelativeDocumentMoniker": "FirstBlazor\\Pages\\Item.razor",
@@ -59,25 +75,24 @@
               "RelativeToolTip": "FirstBlazor\\Pages\\Item.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-03T18:27:43.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T18:27:43.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ShoppingList.razor",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Pages\\ShoppingList.razor",
               "RelativeDocumentMoniker": "FirstBlazor\\Pages\\ShoppingList.razor",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Pages\\ShoppingList.razor",
               "RelativeToolTip": "FirstBlazor\\Pages\\ShoppingList.razor",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABUAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-02T10:44:06.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "FirstBlazor\\Layout\\NavMenu.razor",
