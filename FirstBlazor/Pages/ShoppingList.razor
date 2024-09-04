@@ -1,38 +1,72 @@
 ﻿@page "/shoppinglist"
 @using FirstBlazor.Data
 
+<PageTitle>@title </PageTitle>
 <h3>ShoppingList</h3>
-<ul>
+
+@* <input placeholder="Grocery Name" @bind="groceryName" />
+<input placeholder="Grocery Price" @bind="groceryPrice" />
+<button @onclick="AddGrocery">Add Grocery</button> *@
+
+<EditForm Model="@grocery" OnSubmit="AddGrocery">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    <p>
+        <label>
+            Name:
+            <InputText @bind-Value="grocery.Name"></InputText>
+        </label>
+    </p>
+
+    <p>
+        <label>
+            Price:
+            <InputNumber @bind-Value="grocery.Price"></InputNumber>
+        </label>
+    </p>
+
+    <button type="submit"> Add grocery</button>
+</EditForm>
+
+<table class="table table-sm">
+    <tr>
+        <th>Name</th>
+        <th>Price</th>
+        <th></th>
+    </tr>
+
     @foreach (var grocery in groceries)
     {
-        <li>@grocery.Name -- @grocery.Price</li>
+        <Item GroceryItem="@grocery" OnGroceryPriceIncreased="OnGroceryPriceIncreased" />
     }
-</ul>
 
-<input placeholder="Grocery Name" @bind="groceryName" />
-<input placeholder="Grocery Price" @bind="groceryPrice" />
+</table>
 
-<button @onclick="AddGrocery">Add grocery</button>
-
-<h1>Total (@groceries.Sum(grocery => grocery.Price))</h1>
+<h1>Total (@sum)</h1> @*One way data binding!*@
 
 @code {
-    private string groceryName;
-    private float groceryPrice;
+    private float sum = 0f;
+    private string title = "Our groceries";
+    private string groceryName = string.Empty;
+    private float groceryPrice = 0f;
+
+    private Grocery grocery = new();
 
     private List<Grocery> groceries = new();
     private void AddGrocery()
     {
-        if (!string.IsNullOrWhiteSpace(groceryName) && groceryPrice > 0)
-        {
-            groceries.Add(new Grocery()
-                {
-                    Name = groceryName,
-                    Price = groceryPrice
-                });
+        groceries.Add(grocery);
+        grocery = new();
+        UpdateTotalAmount();
+    }
 
-            groceryName = string.Empty;
-            groceryPrice = 0;
-        }
+    public void UpdateTotalAmount()
+    {
+        sum = groceries.Sum(x => x.Price);
+    }
+
+    public void OnGroceryPriceIncreased()
+    {
+        UpdateTotalAmount();
     }
 }

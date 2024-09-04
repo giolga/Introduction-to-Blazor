@@ -1029,3 +1029,4 @@ C:\Users\GioLGA\Desktop\FirstBlazor\FirstBlazor\obj\Debug\net8.0\FirstBlazor.dll
 C:\Users\GioLGA\Desktop\FirstBlazor\FirstBlazor\obj\Debug\net8.0\refint\FirstBlazor.dll
 C:\Users\GioLGA\Desktop\FirstBlazor\FirstBlazor\obj\Debug\net8.0\FirstBlazor.pdb
 C:\Users\GioLGA\Desktop\FirstBlazor\FirstBlazor\obj\Debug\net8.0\ref\FirstBlazor.dll
+C:\Users\GioLGA\Desktop\FirstBlazor\FirstBlazor\obj\Debug\net8.0\FirstBlazor.sourcelink.json

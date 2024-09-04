@@ -11,24 +11,12 @@
       "RelativeMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|solutionrelative:firstblazor\\data\\grocery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|c:\\users\\giolga\\desktop\\firstblazor\\firstblazor\\pages\\item.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|solutionrelative:firstblazor\\pages\\item.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|c:\\users\\giolga\\desktop\\firstblazor\\firstblazor\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|solutionrelative:firstblazor\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|c:\\users\\giolga\\desktop\\firstblazor\\firstblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|solutionrelative:firstblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|c:\\users\\giolga\\desktop\\firstblazor\\firstblazor\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|solutionrelative:firstblazor\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|c:\\users\\giolga\\desktop\\firstblazor\\firstblazor\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|solutionrelative:firstblazor\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|c:\\users\\giolga\\desktop\\firstblazor\\firstblazor\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|solutionrelative:firstblazor\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,7 +25,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 873,
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -56,22 +44,22 @@
               "RelativeDocumentMoniker": "FirstBlazor\\Data\\Grocery.cs",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Data\\Grocery.cs",
               "RelativeToolTip": "FirstBlazor\\Data\\Grocery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T09:36:41.46Z",
+              "WhenOpened": "2024-09-04T09:56:23.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "FirstBlazor\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "FirstBlazor\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAABhAAAA",
+              "Title": "Item.razor",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Pages\\Item.razor",
+              "RelativeDocumentMoniker": "FirstBlazor\\Pages\\Item.razor",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Pages\\Item.razor",
+              "RelativeToolTip": "FirstBlazor\\Pages\\Item.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-02T09:34:35.86Z",
+              "WhenOpened": "2024-09-03T18:27:43.217Z",
               "EditorCaption": ""
             },
             {
@@ -82,62 +70,32 @@
               "RelativeDocumentMoniker": "FirstBlazor\\Pages\\ShoppingList.razor",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Pages\\ShoppingList.razor",
               "RelativeToolTip": "FirstBlazor\\Pages\\ShoppingList.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABUAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-02T09:32:59.973Z",
+              "WhenOpened": "2024-09-02T10:44:06.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Program.cs",
-              "RelativeDocumentMoniker": "FirstBlazor\\Program.cs",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Program.cs",
-              "RelativeToolTip": "FirstBlazor\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T09:32:38.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Weather.razor",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Pages\\Weather.razor",
-              "RelativeDocumentMoniker": "FirstBlazor\\Pages\\Weather.razor",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Pages\\Weather.razor",
-              "RelativeToolTip": "FirstBlazor\\Pages\\Weather.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA4AAAA",
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "FirstBlazor\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "FirstBlazor\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-02T09:31:41.307Z",
-              "EditorCaption": ""
-            },
+              "WhenOpened": "2024-09-02T09:34:35.86Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 913,
+          "SelectedChildIndex": -1,
+          "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "FirstBlazor\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Pages\\Home.razor",
-              "RelativeToolTip": "FirstBlazor\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-02T09:31:38.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "FirstBlazor\\Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Pages\\Counter.razor",
-              "RelativeToolTip": "FirstBlazor\\Pages\\Counter.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-02T09:31:06.485Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
