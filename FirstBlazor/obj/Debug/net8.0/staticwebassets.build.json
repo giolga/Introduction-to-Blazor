@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dMhYgdOiPO8jzfZHNpgnYPQZXsCnWOoK3swRoPhCWSE=",
+  "Hash": "pPovjh7jkZ86UGY42QiaIuuaqa23x82eFilLeOB7rbc=",
   "Source": "FirstBlazor",
   "BasePath": "/",
   "Mode": "Root",
@@ -71,7 +71,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\GioLGA\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -90,15 +90,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\GioLGA\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.2ri2docbxp.js",
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.93i67mqfmb.js",
       "SourceId": "FirstBlazor",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.8.2ri2docbxp.js",
+      "RelativePath": "_framework/dotnet.native.8.0.8.93i67mqfmb.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\GioLGA\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\GioLGA\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.d6bl0ew8a9.js",
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.80cvijctdx.js",
       "SourceId": "FirstBlazor",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.8.d6bl0ew8a9.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.8.80cvijctdx.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\GioLGA\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -166,7 +166,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\GioLGA\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\FirstBlazor.pdb",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\GioLGA\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -242,7 +242,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\GioLGA\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -261,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\GioLGA\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -530,6 +530,44 @@
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.DependencyInjection.wasm"
     },
     {
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Diagnostics.Abstractions.wasm",
+      "SourceId": "FirstBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Diagnostics.Abstractions.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.Diagnostics.Abstractions.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Diagnostics.wasm",
+      "SourceId": "FirstBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Diagnostics.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.Diagnostics.wasm"
+    },
+    {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Abstractions.wasm",
       "SourceId": "FirstBlazor",
       "SourceType": "Computed",
@@ -587,6 +625,25 @@
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.FileSystemGlobbing.wasm"
     },
     {
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Http.wasm",
+      "SourceId": "FirstBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.Http.wasm"
+    },
+    {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.wasm",
       "SourceId": "FirstBlazor",
       "SourceType": "Computed",
@@ -623,6 +680,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.Logging.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.ConfigurationExtensions.wasm",
+      "SourceId": "FirstBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Options.ConfigurationExtensions.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.Options.ConfigurationExtensions.wasm"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.wasm",
@@ -813,6 +889,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\webcil\\netstandard.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Newtonsoft.Json.wasm",
+      "SourceId": "FirstBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\webcil\\Newtonsoft.Json.wasm"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.AppContext.wasm",
@@ -3893,25 +3988,6 @@
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\webcil\\WindowsBase.wasm"
     },
     {
-      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\0fh0ad7y99.gz",
-      "SourceId": "FirstBlazor",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
-    },
-    {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\0invop9k17.gz",
       "SourceId": "FirstBlazor",
       "SourceType": "Computed",
@@ -3986,6 +4062,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\0x4m18isqm.gz",
+      "SourceId": "FirstBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Newtonsoft.Json.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Newtonsoft.Json.wasm"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\17s0kjd34u.gz",
@@ -4064,6 +4159,25 @@
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.NetworkInformation.wasm"
     },
     {
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\2f7n5iuu5i.gz",
+      "SourceId": "FirstBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
+    },
+    {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\2lb5he3myy.gz",
       "SourceId": "FirstBlazor",
       "SourceType": "Computed",
@@ -4102,25 +4216,6 @@
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Collections.Immutable.wasm"
     },
     {
-      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\2ri2docbxp.gz",
-      "SourceId": "FirstBlazor",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.8.2ri2docbxp.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.2ri2docbxp.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.2ri2docbxp.js"
-    },
-    {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\2rxh9r63hm.gz",
       "SourceId": "FirstBlazor",
       "SourceType": "Computed",
@@ -4157,6 +4252,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Tasks.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\36f3qojdf6.gz",
+      "SourceId": "FirstBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Diagnostics.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Diagnostics.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Diagnostics.wasm"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\3az08tqu34.gz",
@@ -4214,6 +4328,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.Encoding.Extensions.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\3ii2ld2v2k.gz",
+      "SourceId": "FirstBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\3olg6fzrcn.gz",
@@ -4330,6 +4463,25 @@
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Claims.wasm"
     },
     {
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\4nuvrwbxpd.gz",
+      "SourceId": "FirstBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Http.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Http.wasm"
+    },
+    {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\4ppvlpbb6r.gz",
       "SourceId": "FirstBlazor",
       "SourceType": "Computed",
@@ -4423,6 +4575,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Thread.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\5hb9robyo3.gz",
+      "SourceId": "FirstBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\5j8igscfm7.gz",
@@ -4634,6 +4805,25 @@
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.WebHeaderCollection.wasm"
     },
     {
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\80cvijctdx.gz",
+      "SourceId": "FirstBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.8.80cvijctdx.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.80cvijctdx.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.80cvijctdx.js"
+    },
+    {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\82j0y7sexf.gz",
       "SourceId": "FirstBlazor",
       "SourceType": "Computed",
@@ -4710,6 +4900,25 @@
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Csp.wasm"
     },
     {
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\8n6z5wxofv.gz",
+      "SourceId": "FirstBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
+    },
+    {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\8y4obssefj.gz",
       "SourceId": "FirstBlazor",
       "SourceType": "Computed",
@@ -4729,23 +4938,23 @@
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Primitives.wasm"
     },
     {
-      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\977xncn5wv.gz",
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\93i67mqfmb.gz",
       "SourceId": "FirstBlazor",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "RelativePath": "_framework/dotnet.native.8.0.8.93i67mqfmb.js.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.93i67mqfmb.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.93i67mqfmb.js"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\9ckjkpuvzw.gz",
@@ -5052,25 +5261,6 @@
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Globalization.Calendars.wasm"
     },
     {
-      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\bs1ac5e3su.gz",
-      "SourceId": "FirstBlazor",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
-    },
-    {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\bzmqng4b69.gz",
       "SourceId": "FirstBlazor",
       "SourceType": "Computed",
@@ -5202,25 +5392,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ObjectModel.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\d6bl0ew8a9.gz",
-      "SourceId": "FirstBlazor",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.8.d6bl0ew8a9.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.d6bl0ew8a9.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.d6bl0ew8a9.js"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\djyy4jzmge.gz",
@@ -5392,6 +5563,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Pipelines.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\fee80xt8zb.gz",
+      "SourceId": "FirstBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Diagnostics.Abstractions.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Diagnostics.Abstractions.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Diagnostics.Abstractions.wasm"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\fgq5wbe03n.gz",
@@ -5679,25 +5869,6 @@
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.wasm"
     },
     {
-      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\i2jixaso86.gz",
-      "SourceId": "FirstBlazor",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
-    },
-    {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\i3nq2u8ycy.gz",
       "SourceId": "FirstBlazor",
       "SourceType": "Computed",
@@ -5829,6 +6000,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.XPath.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\iuv9fowji8.gz",
+      "SourceId": "FirstBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Options.ConfigurationExtensions.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.ConfigurationExtensions.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.ConfigurationExtensions.wasm"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\j1wwhp72eh.gz",
@@ -5981,25 +6171,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Loader.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\ju9zdo5lld.gz",
-      "SourceId": "FirstBlazor",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\konl6h2wn6.gz",
@@ -6380,6 +6551,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.Encoding.CodePages.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\oejb9222hs.gz",
+      "SourceId": "FirstBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\ojng43dn12.gz",
@@ -7009,6 +7199,25 @@
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.wasm"
     },
     {
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\tcahtmlyz5.gz",
+      "SourceId": "FirstBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
+    },
+    {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\tcr0lko6bg.gz",
       "SourceId": "FirstBlazor",
       "SourceType": "Computed",
@@ -7159,25 +7368,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\ufofrv2iv6.gz",
-      "SourceId": "FirstBlazor",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\ugcz3o511n.gz",
@@ -7503,25 +7693,6 @@
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.AccessControl.wasm"
     },
     {
-      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\wnk9qype7w.gz",
-      "SourceId": "FirstBlazor",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
-    },
-    {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\wnmetkjf8d.gz",
       "SourceId": "FirstBlazor",
       "SourceType": "Computed",
@@ -7729,6 +7900,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Collections.NonGeneric.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\zbvva2wxb6.gz",
+      "SourceId": "FirstBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\obj\\Debug\\net8.0\\compressed\\zoi3si1xdj.gz",

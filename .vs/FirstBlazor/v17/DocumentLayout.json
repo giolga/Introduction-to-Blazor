@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|c:\\users\\giolga\\desktop\\firstblazor\\firstblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|solutionrelative:firstblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|c:\\users\\giolga\\desktop\\firstblazor\\firstblazor\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|solutionrelative:firstblazor\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|c:\\users\\giolga\\desktop\\firstblazor\\firstblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|solutionrelative:firstblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|c:\\users\\giolga\\desktop\\firstblazor\\firstblazor\\layout\\shoppinglistlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|solutionrelative:firstblazor\\layout\\shoppinglistlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|c:\\users\\giolga\\desktop\\firstblazor\\firstblazor\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|solutionrelative:firstblazor\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|c:\\users\\giolga\\desktop\\firstblazor\\firstblazor\\pages\\shoppinglist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|solutionrelative:firstblazor\\pages\\shoppinglist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{602D0F46-FFD7-4457-86AE-83FD5D06ED2E}|FirstBlazor\\FirstBlazor.csproj|c:\\users\\giolga\\desktop\\firstblazor\\firstblazor\\layout\\shoppinglistlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 873,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,59 +38,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Weather.razor",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "FirstBlazor\\Pages\\Weather.razor",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Pages\\Weather.razor",
               "RelativeToolTip": "FirstBlazor\\Pages\\Weather.razor",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAAAOAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-05T16:05:45.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "FirstBlazor\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Pages\\Home.razor",
-              "RelativeToolTip": "FirstBlazor\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T16:05:43.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShoppingList.razor",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Pages\\ShoppingList.razor",
-              "RelativeDocumentMoniker": "FirstBlazor\\Pages\\ShoppingList.razor",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Pages\\ShoppingList.razor",
-              "RelativeToolTip": "FirstBlazor\\Pages\\ShoppingList.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T16:03:07.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Program.cs",
               "RelativeDocumentMoniker": "FirstBlazor\\Program.cs",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Program.cs",
               "RelativeToolTip": "FirstBlazor\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T13:16:45.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ShoppingListLayout.razor.css",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\FirstBlazor\\FirstBlazor\\Layout\\ShoppingListLayout.razor.css",
               "RelativeDocumentMoniker": "FirstBlazor\\Layout\\ShoppingListLayout.razor.css",
@@ -106,8 +72,7 @@
               "RelativeToolTip": "FirstBlazor\\Layout\\ShoppingListLayout.razor.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-04T12:50:59.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T12:50:59.815Z"
             },
             {
               "$type": "Document",
@@ -119,8 +84,7 @@
               "RelativeToolTip": "FirstBlazor\\Layout\\ShoppingListLayout.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T10:07:52.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T10:07:52.84Z"
             }
           ]
         },

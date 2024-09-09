@@ -1,4 +1,5 @@
 ﻿@page "/weather"
+@using Newtonsoft.Json
 @inject HttpClient Http
 
 <PageTitle>Weather</PageTitle>
@@ -8,7 +9,7 @@
 <p>This component demonstrates fetching data from the server.</p>
 
 <h4>Enter city</h4>
-<input type="text" @bind="@City" />
+<input type="text" @bind="@CityProp" />
 <button @onclick="GetWeatherForecast">Search</button>
 
 @if (forecasts == null)
@@ -18,10 +19,10 @@
 else
 {
     var today = DateTime.Today;
-    <h4>@City Today:  @today.ToShortDateString()</h4>
-    <p>Wind: @forecasts.Forecast[0].Wind</p>
-    <p>Temp: (C): @forecasts.Forecast[0].Temperature</p>
-    <p>Summary: (C): @forecasts.Description</p>
+    <h4>@CityProp Today:  @today.ToShortDateString()</h4>
+    <p>Wind: @forecasts.List[0].Wind.Speed</p>
+    <p>Temp: (C): @(Math.Floor(forecasts.List[0].Main.Temp - 273.15))</p>
+    <p>Summary: @forecasts.List[0].Weather[0].Description</p>
     <table class="table">
         <thead>
             <tr>
@@ -31,12 +32,12 @@ else
             </tr>
         </thead>
         <tbody>
-            @foreach (var forecast in forecasts.Forecast)
+            @foreach (var forecast in forecasts.List)
             {
                 <tr>
-                    <td>@today.AddDays(int.Parse(forecast.Day)).ToShortDateString()</td>
-                    <td>@forecast.Temperature</td>
-                    <td>@forecast.Wind</td>
+                    <td>@forecast.DateTime</td>
+                    <td>@(Math.Floor(forecast.Main.Temp - 273.15))</td>
+                    <td>@forecast.Wind.Speed</td>
                 </tr>
             }
         </tbody>
@@ -44,33 +45,204 @@ else
 }
 
 @code {
-    private WeatherForecast? forecasts;
-
-    private string City = "Tbilisi";
+    private string CityProp { get; set; }
+    private Root forecasts;
 
     protected override async Task OnInitializedAsync()
     {
-        forecasts = await Http.GetFromJsonAsync<WeatherForecast>(City);
+        await GetWeatherForecast();
     }
 
     private async Task GetWeatherForecast()
     {
-        forecasts = await Http.GetFromJsonAsync<WeatherForecast>(City);
+        try
+        {
+            var response = await Http.GetAsync($"https://api.openweathermap.org/data/2.5/forecast?q={CityProp}&appid=3a75f6c38bf1d813b50ac6768e28627a");
+            if (response.IsSuccessStatusCode)
+            {
+                forecasts = await response.Content.ReadFromJsonAsync<Root>();
+            }
+            else
+            {
+                Console.WriteLine("Failed to fetch weather data");
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Error fetching weather data: " + ex.Message);
+        }
     }
 
-    public partial class WeatherForecast
+    public class City
     {
-        public string? Description { get; set; }
-        public Forecast[]? Forecast { get; set; }
+        [JsonProperty("id")]
+        public int Id { get; set; }
+
+        [JsonProperty("name")]
+        public string Name { get; set; }
+
+        [JsonProperty("coord")]
+        public Coord Coord { get; set; }
+
+        [JsonProperty("country")]
+        public string Country { get; set; }
+
+        [JsonProperty("population")]
+        public int Population { get; set; }
+
+        [JsonProperty("timezone")]
+        public int Timezone { get; set; }
+
+        [JsonProperty("sunrise")]
+        public int Sunrise { get; set; }
+
+        [JsonProperty("sunset")]
+        public int Sunset { get; set; }
     }
 
-    public class Forecast
+    public class Clouds
     {
-        public string? Temperature { get; set; }
+        [JsonProperty("all")]
+        public int All { get; set; }
+    }
 
-        public string? Day{ get; set; }
+    public class Coord
+    {
+        [JsonProperty("lat")]
+        public double Lat { get; set; }
 
-        public string? Wind { get; set; }
+        [JsonProperty("lon")]
+        public double Lon { get; set; }
+    }
 
+    public class List
+    {
+        [JsonProperty("dt")]
+        public int Dt { get; set; }
+        public string DateTime
+        {
+            get
+            {
+                return DateTimeOffset.FromUnixTimeSeconds(Dt).DateTime.ToString("dd MMM yyyy HH:mm");
+            }
+        }
+
+        [JsonProperty("main")]
+        public Main Main { get; set; }
+
+        [JsonProperty("weather")]
+        public List<WeatherJ> Weather { get; set; }
+
+        [JsonProperty("clouds")]
+        public Clouds Clouds { get; set; }
+
+        [JsonProperty("wind")]
+        public Wind Wind { get; set; }
+
+        [JsonProperty("visibility")]
+        public int Visibility { get; set; }
+
+        [JsonProperty("pop")]
+        public double Pop { get; set; }
+
+        [JsonProperty("sys")]
+        public Sys Sys { get; set; }
+
+        [JsonProperty("dt_txt")]
+        public string DtTxt { get; set; }
+
+        [JsonProperty("rain")]
+        public Rain Rain { get; set; }
+    }
+
+    public class Main
+    {
+        [JsonProperty("temp")]
+        public double Temp { get; set; }
+
+        public double Temperature => Math.Round(Temp);
+
+        [JsonProperty("feels_like")]
+        public double FeelsLike { get; set; }
+
+        [JsonProperty("temp_min")]
+        public double TempMin { get; set; }
+
+        [JsonProperty("temp_max")]
+        public double TempMax { get; set; }
+
+        [JsonProperty("pressure")]
+        public int Pressure { get; set; }
+
+        [JsonProperty("sea_level")]
+        public int SeaLevel { get; set; }
+
+        [JsonProperty("grnd_level")]
+        public int GrndLevel { get; set; }
+
+        [JsonProperty("humidity")]
+        public int Humidity { get; set; }
+
+        [JsonProperty("temp_kf")]
+        public double TempKf { get; set; }
+    }
+
+    public class Rain
+    {
+        [JsonProperty("3h")]
+        public double _3h { get; set; }
+    }
+
+    public class Root
+    {
+        [JsonProperty("cod")]
+        public string Cod { get; set; }
+
+        [JsonProperty("message")]
+        public int Message { get; set; }
+
+        [JsonProperty("cnt")]
+        public int Cnt { get; set; }
+
+        [JsonProperty("list")]
+        public List<List> List { get; set; }
+
+        [JsonProperty("city")]
+        public City City { get; set; }
+    }
+
+    public class Sys
+    {
+        [JsonProperty("pod")]
+        public string Pod { get; set; }
+    }
+
+    public class WeatherJ
+    {
+        [JsonProperty("id")]
+        public int Id { get; set; }
+
+        [JsonProperty("main")]
+        public string Main { get; set; }
+
+        [JsonProperty("description")]
+        public string Description { get; set; }
+
+        [JsonProperty("icon")]
+        public string Icon { get; set; }
+        public string FullIconUrl => string.Format("https://openweathermap.org/img/wn/{0}@2x.png", Icon);
+        public string Customicon => string.Format("C:\\Users\\GioLGA\\Desktop\\WeatherApp\\WeatherApp\\Images\\icon_{0}.png", Icon);
+    }
+
+    public class Wind
+    {
+        [JsonProperty("speed")]
+        public double Speed { get; set; }
+
+        [JsonProperty("deg")]
+        public int Deg { get; set; }
+
+        [JsonProperty("gust")]
+        public double Gust { get; set; }
     }
 }
